@@ -1,5 +1,5 @@
 {
-	"name": "@gamerboytr/hizliresim-api",
+	"name": "hizliresim",
 	"version": "1.0.0",
 	"description": "HızlıResim Unofficial API",
 	"main": "src/app.js",

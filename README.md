@@ -7,19 +7,19 @@ Licensed Under [MIT](https://github.com/gamerboytr/HizliResim-API/blob/master/LI
 
 Install the package with [nodejs](https://nodejs.org/en/):
 
-```bat
-$ npm install hizliresim-api
+```batch
+$ npm install hizliresim
 ```
 
 Or you can use [yarn](https://yarnpkg.com/en/docs/install)
 
-```bat
-$ yarn add hizliresim-api
+```batch
+$ yarn add hizliresim
 ```
 
 Create `app.js`
 
-```bat
+```batch
 $ touch app.js
 ```
 
@@ -27,7 +27,7 @@ And add this code:
 
 ```js
 // app.js
-const hizliresim = require("hizliresim-api");
+const hizliresim = require("hizliresim");
 
 const Client = new hizliresim.Client();
 ```
@@ -111,7 +111,7 @@ Client.getImage("t1iz2nq", "rickroll").then(function (fileName) {
 You can set options for saving image.
 
 ```js
-const { Options } = require("hizliresim-api");
+const { Options } = require("hizliresim");
 
 Client.getImage("t1iz2nq", "rickroll").then(
 	function (fileName) {
