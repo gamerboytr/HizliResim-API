@@ -11,8 +11,6 @@ const path = require("path");
 const Options = {
 	FLAGS: {
 		OVERWRITE: 0,
-		GENDER_MALE: 1,
-		GENDER_FEMALE: 2,
 	},
 };
 
