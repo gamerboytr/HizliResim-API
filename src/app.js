@@ -28,7 +28,7 @@ const Retention = {
 };
 
 /**
- * HızlıResim Unoffical API
+ * HızlıResim Unofficial API
  *
  * @author GamerboyTR
  * @version 1.0.0

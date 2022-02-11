@@ -1,7 +1,7 @@
 {
 	"name": "@gamerboytr/hizliresim-api",
 	"version": "1.0.0",
-	"description": "HızlıResim Unoffical API",
+	"description": "HızlıResim Unofficial API",
 	"main": "src/app.js",
 	"bugs": {
 		"email": "offical.gamerboytr@yandex.com",
